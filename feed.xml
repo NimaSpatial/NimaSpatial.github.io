@@ -3,72 +3,12 @@
     <title>NimaSpatial.github.io</title>
     <link href="https://NimaSpatial.github.io/feed.xml" rel="self" />
     <link href="https://NimaSpatial.github.io" />
-    <updated>2026-08-19T14:24:42+03:30</updated>
+    <updated>2026-08-19T14:15:10+03:30</updated>
     <author>
         <name>Nima Alimohammadi</name>
     </author>
     <id>https://NimaSpatial.github.io</id>
 
-    <entry>
-        <title>Artificial Intelligence and Deep Learning in Cadastral Mapping</title>
-        <author>
-            <name>Nima Alimohammadi</name>
-        </author>
-        <link href="https://NimaSpatial.github.io/artificial-intelligence-and-deep-learning-in-cadastral-mapping-2/"/>
-        <id>https://NimaSpatial.github.io/artificial-intelligence-and-deep-learning-in-cadastral-mapping-2/</id>
-            <category term="RS"/>
-            <category term="Photogrammetry"/>
-            <category term="LAS"/>
-            <category term="Deep Learning"/>
-            <category term="Cadastre"/>
-
-        <updated>2026-08-19T14:22:35+03:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    In this article, I explored how Artificial Intelligence and Deep Learning can&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>In this article, I explored how Artificial Intelligence and Deep Learning can contribute to the production, updating, and analysis of cadastral maps. I was particularly interested in the possibility of moving some of the traditionally time-consuming cadastral mapping tasks from manual digitization toward automated or semi-automated workflows.</p>
-<p>Cadastral mapping is different from many other mapping applications because the geometry of land parcels has legal and financial implications. This makes accuracy, topology, and reliability particularly important. At the same time, converting old paper cadastral maps into digital data and extracting parcel boundaries from aerial imagery can require a significant amount of time and expert effort. These challenges motivated me to examine how recent developments in machine learning and computer vision could be applied to this field.</p>
-<p>One of the main parts of the article is an overview of the relationship between Artificial Intelligence, Machine Learning, and Deep Learning, with a focus on neural-network-based approaches for spatial data processing. I also discussed the concept of the <strong>Smart Cadastre</strong>, where spatial intelligence can be used to recognize and extract property boundaries and other land-related features from imagery.</p>
-<p><strong>[Insert Figure: Relationship between Artificial Intelligence, Machine Learning, and Deep Learning]</strong></p>
-<p>I then reviewed several practical applications of AI in cadastral mapping. One example is the automatic conversion of scanned cadastral maps into digital vector data. In this type of workflow, image-processing and machine-learning techniques can be used to identify parcel boundaries, texts, parcel identifiers, and other cartographic elements. This approach can be particularly useful when large collections of historical maps need to be digitized.</p>
-<p><strong>[Insert Figure: Automatic extraction of cadastral information from scanned maps]</strong></p>
-<p>Another approach I examined was semi-automatic cadastral mapping from UAV imagery. In this workflow, the machine is responsible for identifying and classifying potential boundaries, while the operator remains involved in the final construction and validation of parcel polygons. I found this human–machine combination particularly interesting because it does not require complete automation; instead, it allows the strengths of both the algorithm and the expert to be used within the same workflow.</p>
-<p><strong>[Insert Figure: Cadastral map extracted from UAV imagery and comparison with the reference map]</strong></p>
-<p>I also reviewed the application of Deep Learning to <strong>3D cadastral and building modelling</strong>. A case study from Tehran demonstrated how aerial imagery and Deep Learning could be combined to automatically extract buildings and subsequently generate their three-dimensional models. The workflow included aerial image preparation, image orientation, automatic building extraction, and 3D reconstruction. The results showed that Deep Learning can provide a practical way of processing large urban datasets where manual modelling would otherwise be extremely time-consuming.</p>
-<p><strong>[Insert Figure: Study areas in Tehran – Resalat and Sadeghieh]</strong></p>
-<p><strong>[Insert Figure: Deep Learning architecture and example of input/output]</strong></p>
-<p>Another application discussed in the article is the detection of potential land grabbing by combining Deep Learning with cadastral and land-use data. In this approach, aerial imagery is first processed to produce land-cover and land-use information. These results can then be compared with cadastral information and public/private land records to identify areas where possible encroachment or unauthorized occupation may have occurred. This example shows that the value of AI in cadastral systems is not limited to map production; it can also extend to <strong>land administration, monitoring, and decision support</strong>.</p>
-<p><strong>[Insert Figure: Conceptual map of areas with potential land grabbing]</strong></p>
-<p>After reviewing these applications, I compared the performance of automated approaches with human operators. The results suggest that AI-based methods can provide a major advantage when large volumes of data need to be processed, particularly in rural and agricultural areas. However, in complex urban environments, manually produced boundaries can still provide better geometric and topological quality. This is an important distinction: the objective should not necessarily be to replace the cadastral expert, but rather to use AI where it can reduce repetitive work and improve the overall efficiency of the workflow.</p>
-<p><strong>[Insert Figure: Comparison of manually digitized and AI-derived cadastral data]</strong></p>
-<p>Based on the studies reviewed, I concluded that Deep Learning has considerable potential for the future development of automated cadastral systems. However, the quality of the final cadastral product still depends on the quality of the input data, the architecture and training of the model, and—most importantly—independent accuracy assessment. For large-scale applications, I also emphasized the importance of GPU-based processing because of the computational requirements of Deep Learning models.</p>
-<p>Ultimately, I see Artificial Intelligence not as a replacement for surveying and cadastral expertise, but as a tool that can significantly change the way cadastral data is produced and maintained. Combining automated image interpretation with expert validation could provide a more scalable approach to cadastral mapping, especially as the volume of aerial and remote sensing data continues to grow.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>a</title>
-        <author>
-            <name>Nima Alimohammadi</name>
-        </author>
-        <link href="https://NimaSpatial.github.io/artificial-intelligence-and-deep-learning-in-cadastral-mapping/"/>
-        <id>https://NimaSpatial.github.io/artificial-intelligence-and-deep-learning-in-cadastral-mapping/</id>
-
-        <updated>2026-08-19T14:21:42+03:30</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    <br>
-  </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Extracting Rural Cadastral Maps by Using Fully Automated Approaches Based on Artificial Intelligence</title>
         <author>
