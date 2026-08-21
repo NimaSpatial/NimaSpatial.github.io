@@ -3,7 +3,7 @@
     <title>NimaSpatial.github.io</title>
     <link href="https://NimaSpatial.github.io/feed.xml" rel="self" />
     <link href="https://NimaSpatial.github.io" />
-    <updated>2026-08-21T17:34:32+03:30</updated>
+    <updated>2026-08-21T17:38:07+03:30</updated>
     <author>
         <name>Nima Alimohammadi</name>
     </author>
@@ -14,11 +14,11 @@
         <author>
             <name>Nima Alimohammadi</name>
         </author>
-        <link href="https://NimaSpatial.github.io/artificial-intelligence-and-deep-learning-in-cadastral-mapping-2/"/>
-        <id>https://NimaSpatial.github.io/artificial-intelligence-and-deep-learning-in-cadastral-mapping-2/</id>
+        <link href="https://NimaSpatial.github.io/application-of-artificial-intelligence-and-deep-learning-in-the-production-of-cadastral-maps/"/>
+        <id>https://NimaSpatial.github.io/application-of-artificial-intelligence-and-deep-learning-in-the-production-of-cadastral-maps/</id>
         <media:content url="https://NimaSpatial.github.io/media/posts/9/grok_1787320354840.jpg" medium="image" />
             <category term="RS"/>
-            <category term="Publication"/>
+            <category term="Publications"/>
             <category term="Photogrammetry"/>
             <category term="LAS"/>
             <category term="Deep Learning"/>
@@ -82,7 +82,7 @@
         <id>https://NimaSpatial.github.io/extracting-rural-cadastral-maps-by-using-fully-automated-approaches-based-on-artificial-intelligence-2/</id>
         <media:content url="https://NimaSpatial.github.io/media/posts/2/NimaGeo_Thesis_banner.jpg" medium="image" />
             <category term="RS"/>
-            <category term="Publication"/>
+            <category term="Publications"/>
             <category term="Photogrammetry"/>
             <category term="LAS"/>
             <category term="GIS"/>
